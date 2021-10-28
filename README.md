@@ -8,5 +8,6 @@ or
 2. compile using a IDE such as CodeBlocks
 
 Procedure for running on Linux: 
-1. gcc -lm main.c -o main -std=c99
-2. ./main
+1. comment out  getch(); in line 118
+2. gcc -lm main.c -o main -std=c99
+3. ./main
