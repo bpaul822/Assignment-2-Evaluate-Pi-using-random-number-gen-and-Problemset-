@@ -3,9 +3,10 @@
 Bibin Paul EE19M508 bibin.paul.c@gmail.com
 
 Procedure for running on windows:
-Use the .exe in gitfolder
-or compile using a IDE such as CodeBlocks
+1. Use the .exe in gitfolder
+or 
+2. compile using a IDE such as CodeBlocks
 
 Procedure for running on Linux: 
-gcc -lm main.c -o main -std=c99
-./main
+1. gcc -lm main.c -o main -std=c99
+2. ./main
