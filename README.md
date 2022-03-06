@@ -1,6 +1,6 @@
 # Assignment2-Evaluate-Pi-using-random-number-generator-gen-Problemset-
 
-Bibin Paul EE19M508 bibin.paul.c@gmail.com
+Bibin Paul 
 
 Procedure for running on windows:
 1. Use the .exe in gitfolder
